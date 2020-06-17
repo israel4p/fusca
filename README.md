@@ -1,6 +1,6 @@
 # VW a AR
 
-## Siglas e relação pinhão / colora
+## Siglas e relação pinhão / coroa
 
 BC - Brasilia 1300 Álcool ( 8 X 35 )  
 BL - SP2 ( 8 X 31 )  
